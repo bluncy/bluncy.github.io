@@ -4,5 +4,5 @@ title: Blog
 slug: /blog
 ---
 
-This is an example of a "Blog" page, displaying a list of posts.
+这里是我写的和从网上摘抄的一些文章.
 <br />

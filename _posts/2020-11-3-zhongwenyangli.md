@@ -3,8 +3,6 @@ layout: post
 title:  "中文样例"
 date:   2020-11-03 12:50:00
 blurb: "使用Bay Jekyll theme发布的样例中文版."
-author:"Bay"
-translator:"Bluncy"
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
 

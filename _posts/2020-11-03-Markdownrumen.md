@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Markdown——入门指南"
+title:  "Markdown"
 date:   2020-11-03 13:18:00
 blurb: "Markdown——入门指南"
 author:""

@@ -1,11 +1,8 @@
 ---
 layout: post
-title:  "Markdown"
-date:   2020-11-03 13:18:00
-blurb: "Markdown——入门指南"
-author:""
-translator:""
-og_image: https://i.picsum.photos/id/599/1600/900.jpg?hmac=ry-mpjPUk4JmTLtUUolp-E8OxINcF6cOnxinhGaDjZY
+title:  "Markdown——入门指南"
+date:   2020-11-03 14:35:40
+blurb: ""
 ---
 
 # 一、标题

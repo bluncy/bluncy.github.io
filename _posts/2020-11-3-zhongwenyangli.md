@@ -7,6 +7,7 @@ author:"Bay"
 translator:"Bluncy"
 og_image: /assets/img/content/post-example/Banner.jpg
 ---
+
 <img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
 <br />
 <br />

@@ -18,7 +18,7 @@ header:
 
 footer:
   show_powered_by: true
-  contact:
+<-- contact:
     - name: Email
       value: yourmail@domain.com
       link: mailto:yourmail@domain.com
@@ -39,6 +39,7 @@ footer:
       link: http://weibo.com/u/YourWeiboUsername
     - name: RSS
       link: /feed.xml
+-->
 
 # Build settings
 markdown: kramdown
